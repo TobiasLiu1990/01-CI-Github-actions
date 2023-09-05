@@ -21,7 +21,7 @@ import static java.util.Optional.ofNullable;
  * NO MODIFICATION OF THIS CLASS IS ALLOWED!
  */
 @Component
-class ReallyShakyBankingCoreSystemService implements-dog BankingCoreSystmeService {
+class ReallyShakyBankingCoreSystemService implements BankingCoreSystmeService {
 
     private Map<String, Account> theBank = new HashMap();
 
