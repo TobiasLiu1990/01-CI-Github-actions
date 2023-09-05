@@ -276,4 +276,5 @@ Lag et eget repo,  i ditt GitHub repo - helt fra scratch, og konfigurer alle ele
 - Kan du finne noen åpne "actions" for Github som for eksempel sjekker kodekvalitet eller eventuelle sårbarheter i avhengigheter ?
 - Dykk mer selv i GitHub Actions
 
+
 Ferdig!
